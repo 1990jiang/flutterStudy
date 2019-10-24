@@ -18,7 +18,8 @@ class _TutorialOneDemoState extends State<TutorialOneDemo> {
           child: Center(
             child: Text("测试"),
           ),
-        ));
+        )
+      );
   }
 }
 
