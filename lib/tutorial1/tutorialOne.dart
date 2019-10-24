@@ -16,7 +16,7 @@ class _TutorialOneDemoState extends State<TutorialOneDemo> {
         ),
         body: Container(
           child: Center(
-            child: Text("测试"),
+            child: Text("第一个demo"),
           ),
         )
       );
